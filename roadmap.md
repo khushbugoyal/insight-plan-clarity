@@ -1,0 +1,2 @@
+- [x] Create a reusable AI plan selection popup and separate preview screen.
+- [x] Verify draft selection, closing/reopening, mobile layout, and unavailable purchases.
